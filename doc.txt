@@ -1,0 +1,14 @@
+In this project has implemented .txt file as database. The project consists of the files which introduced below:
+ - MainCaesar.java
+ - CaesarCipher.java
+ - CipheringTextWithCaesarCipher.java
+ - DecipheringTextWithCaesarCipher.java
+ - LeftOrRightRotateCaesarCipher.java
+
+In class LeftRightRotateCaesarCipher has been implemented Left or Right rotation of symbols according to Caesars Cipher.
+In class CipheringTextWithCaesarCipher has been implemented the ciphering of the text and saving it in file.
+In class DecipheringTextWithCaesarCipher has been implemented the deciphering of the text and saves it in file.
+The class CaesarCipher is coordinating the calls of classes above, also the runtime instruction of program.
+The class MainCaesar is the start-point of the program.
+
+Further information can be found inside .java files.
